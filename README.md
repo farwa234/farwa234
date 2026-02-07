@@ -44,8 +44,6 @@
 
 ---
 
----
-
 ### ✨ Profile Views
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=farwa234&label=Profile%20Views&color=4F46E5&style=flat" />
