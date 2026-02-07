@@ -1,47 +1,64 @@
-<h1 align="center">Hi 👋, I'm Farwa Zafar</h1>
-<h3 align="center">Aspiring Web Developer from Pakistan 🇵🇰</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4F46E5;">Farwa Zafar</span>
+</h1>
 
-<img width="350px" align="right" alt="Farwa Zafar" src="YOUR_PROFILE_IMAGE_LINK">
+<h3 align="center">
+  💻 Web Developer | 🚀 Learning Modern Web & App Development
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Responsive+Websites;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-### 🌱 About Me
-- 🌱 I’m currently learning **Modern Web & App Development**
-- 💻 I enjoy building **responsive & user-friendly websites**
-- 💬 Ask me about **HTML, CSS & JavaScript**
-- 🚀 Always eager to learn and grow as a developer
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749695-2a3d6c3a-9d3c-4e7f-b8e4-4f3b52a48f8c.gif" />
+
+### 👩‍💻 About Me
+- 🌱 Currently learning **Modern Web & App Development**
+- 🧩 Passionate about **clean UI & responsive designs**
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🎯 Goal: Become a **professional frontend developer**
 
 ---
 
-### 🔗 Connect with Me
+### 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/farwa-zafar-649a51365/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
 <a href="https://www.instagram.com/farwazafar66/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="https://github.com/farwa234" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farwa234&show_icons=true&theme=default" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=farwa234&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farwa234&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farwa234&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farwa234&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### ✨ Profile Views
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=farwa234&label=Profile%20Views&color=4F46E5&style=flat" />
+</p>
+
 
