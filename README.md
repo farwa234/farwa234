@@ -44,16 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=farwa234&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farwa234&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farwa234&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### ✨ Profile Views
